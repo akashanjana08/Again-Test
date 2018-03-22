@@ -9,4 +9,12 @@ kahani
 teri
 
 meri
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
+
+
+
+I am working some points:
+>>>>>>> Stashed changes
