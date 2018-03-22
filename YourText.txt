@@ -5,7 +5,4 @@ Java is object oriented programing language.
 
 Hi PHp
 
-
-Hi Android
-
-Welcome Github
+Android is an Operating system developed by Andy rubin.
