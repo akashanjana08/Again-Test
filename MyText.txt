@@ -4,13 +4,9 @@ Hello android
 
 Working on stash
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
 kahani
-=======
+
 teri
->>>>>>> Stashed changes
-=======
+
 meri
->>>>>>> Stashed changes
+
